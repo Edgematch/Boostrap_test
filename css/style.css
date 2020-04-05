@@ -1,0 +1,30 @@
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+  background: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+  background-repeat: no-repeat;
+
+}
+
+#banner{
+  background-color: rgba(63, 98, 214, 0.247);
+  border-radius: 25px;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.logo-title{
+  color: white ;
+}
+
+.logo-img{
+  width: 50px;
+}
+
+.social-media{
+  width: 30px;
+}
+
+.img-post{
+  width: 100%;
+}
+/*# sourceMappingURL=style.css.map */
